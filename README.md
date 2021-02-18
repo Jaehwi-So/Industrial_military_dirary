@@ -22,11 +22,11 @@
 - 프론트엔드
     * HTML, CSS, Javascript, Typescript
     * Bootstrap
-    * Angular
+    * Angular, AngularJS
 
 - 백엔드
     * Node.js, Express
-    * C#, ASP .net
+    * C#, ASP .NET
     * Python
 
 - 서버 및 데이터베이스
