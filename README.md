@@ -28,7 +28,6 @@
     * Node.js, Express
     * C#, ASP .net
     * Python
-    * PHP
 
 - 서버 및 데이터베이스
     * Database : MariaDB, MS-SQL, Oracle, Redis, Firebase Database
