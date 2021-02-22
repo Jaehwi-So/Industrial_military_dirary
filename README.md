@@ -40,4 +40,5 @@
     * Swagger
     * Grafana, Prometheus
     * Nginx
+    * Webpack
 
