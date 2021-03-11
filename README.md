@@ -41,6 +41,7 @@
     * Grafana, Prometheus
     * Nginx
     * Webpack
+    * Electron
 
 ## 기록 예정
 - 서버와 네트워크 보안 점검하기
