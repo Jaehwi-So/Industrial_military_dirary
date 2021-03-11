@@ -42,3 +42,7 @@
     * Nginx
     * Webpack
 
+## 기록 예정
+- 서버와 네트워크 보안 점검하기
+- 지문 서버, 인트라넷, 사내 관리 키오스크와 Firebase, Slackbot 연동 및 Electron 사용하기
+- Window OS에서 Hyper-V를 이용하여 Ubuntu 가상화 서버 만들기 및 테스트 서버 구축하기
