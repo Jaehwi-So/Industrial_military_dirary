@@ -1,49 +1,19 @@
 # 산업기능요원 재직기간동안의 기록
 
 ## 재직 기간
-- 2020/11/16 - ing (2022/12/11 만료 예정)
+- 2020/11/16 - 2022/12/11
 
 ## 포지션
 - Web Front-end 및 Back-end API 개발
 - 서버 관리 및 점검, 유지보수, 보안 관리
-- 사내망 및 네트워크 관리
+- 가끔 윈도우 응용 프로그램 및 WEB기반 응용 프로그램 개발
 
-## 담당 업무
-- 부산 파라다이스 호텔, 인천 파라다이스 호텔(1버전, 2버전) 키오스크 관리자 페이지 및 서버 관리
-- 보건소 납품 시스템 서버 유지보수 및 보안 점검, 클라이언트 이슈 
-- 코엑스 납품 키오스크(인터컨티넨탈 호텔, 코엑스몰) 관리자 페이지
-- 인천공항 납품 키오스크 관리자 페이지
-- 삼성병원 납품 키오스크 관리자 페이지
-- 제주 신화월드 납품 키오스크 관리자 페이지
-- 공식 홈페이지 및 인트라넷
-- 사내 사원 상태 안내 프로그램, 테스트 서버 관리
-
-## 사용 스택
-- 프론트엔드
-    * HTML, CSS, Javascript, Typescript
-    * Bootstrap
-    * Angular, AngularJS
-
-- 백엔드
-    * Node.js, Express
-    * C#, ASP .NET
-    * Python
-
-- 서버 및 데이터베이스
-    * Database : MariaDB, MS-SQL, Oracle, Redis, Firebase Database
-    * Server : IIS(Windows), Ubuntu, Tomcat
-
-- DevOps & Utility
-    * Docker
-    * Git, Gitlab, Sourcetree, Slack
-    * Postman
-    * Swagger
-    * Grafana, Prometheus
-    * Nginx
-    * Webpack
-    * Electron
-
-## 기록 예정
-- 서버와 네트워크 보안 점검하기
-- 지문 서버, 인트라넷, 사내 관리 키오스크와 Firebase, Slackbot 연동 및 Electron 사용하기
-- Window OS에서 Hyper-V를 이용하여 Ubuntu 가상화 서버 만들기 및 테스트 서버 구축하기
+## Experience
+- P사 호텔 및 카지노 키오스크 API, 관리자 페이지 개발
+- 전국 각지 보건소 납품 시스템 서버 유지보수 및 보안 점검, 클라이언트 이슈사항 대응
+- C컨벤션센터, I호텔, 인천공항 등 관리자 페이지 유지보수
+- 서울S병원 등 병원사업 통합 키오스크 관리자 페이지 및 API 추가 개발 및 유지보수
+- 공식 홈페이지, 인트라넷, 사내정보 안내 시스템 개발 및 관리
+- 키오스크 통합 관리 솔루션 NSKM 개발 (응용 프로그램 / API 서버 / 프론트엔드) : 모니터링, 하드웨어 원격제어, 스케줄 설정, 원격 데스크톱, 키오스크 컨텐츠 자동 배포 시스템 내장 -> S사, W사, N사 납품 키오스크에 장착하여 안정화
+- S사 박람회 키오스크 컨텐츠 WEB기반 Application 제작
+- 각종 자동화 - 배포, 빌드, 통계 등
